@@ -1,0 +1,27 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "my first graphql aerver",
+  "main": "index.js",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damian-pagowski/qraphql-intro.git"
+  },
+  "keywords": [
+    "learning",
+    "new-stuff"
+  ],
+  "author": "Damian",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damian-pagowski/qraphql-intro/issues"
+  },
+  "homepage": "https://github.com/damian-pagowski/qraphql-intro#readme",
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
